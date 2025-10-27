@@ -1,0 +1,6 @@
+.env
+.ipynb_checkpoints
+venv
+data/*.csv
+data/previous years
+support
