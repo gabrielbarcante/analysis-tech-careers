@@ -27,6 +27,7 @@
 
 ## Project Motivation<a name="motivation"></a>
 The tech landscape is always changing, but what does it really look like to be a developer in 2025? We dove into the massive [2025 Stack Overflow Annual Developer Survey](https://survey.stackoverflow.co), which collected responses from over 49,000 developers, to answer a few key questions about salaries, technologies, and the global developer community.
+
 The core objective of this machine learning project is to transform the descriptive statistics of the survey into actionable predictive intelligence. Specifically, we will focus on solving the critical business problem of predicting a developer’s current annual compensation based on their stated technologies, experience level, location, and educational background. The key question we aim to answer is: 
 > What is the optimal machine learning model and feature set for accurately predicting a developer's annual compensation in the 2025 technology market?
 
